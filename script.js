@@ -46,9 +46,9 @@
 // Pending (waiting)
 // → Your order is placed, but pizza hasn’t arrived yet.
 // Resolved (success)
-// → Pizza is delivered successfully 🍕
+// → Pizza is delivered successfully 
 // Rejected (failure)
-// → Delivery failed (maybe restaurant closed 😢)
+// → Delivery failed (maybe restaurant closed)
 // 🔹 Same thing in JavaScript
 
 // A Promise represents a task that will finish in the future.
