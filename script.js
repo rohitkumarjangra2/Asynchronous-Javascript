@@ -73,9 +73,9 @@
 //     // let pizzaArrived = true;
 //     let pizzaArrived = false;
 //     if (pizzaArrived) {
-//         resolve("Pizza delivered 🍕");
+//         resolve("Pizza delivered ");
 //     } else {
-//         reject("Delivery failed ❌");
+//         reject("Delivery failed ");
 //     }
 // });
 // // How to use it promise
@@ -94,7 +94,7 @@
 // Rejected
 // 🔹 One-line memory trick
 
-// 👉 Promise = "I will give result later (success or failure)"
+//  Promise = "I will give result later (success or failure)"
 
  
 // CALLBACK -> ye ek function hai jisse pass kiya gaya ho kisi aur function mein aur jab wo function chale to app uss pass kiye gaye callback function ko chala paayege.
